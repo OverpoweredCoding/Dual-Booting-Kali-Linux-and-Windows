@@ -16,3 +16,4 @@ Now that you've finished downloading your ISO file, plug in your USB drive. Next
 ![image](https://user-images.githubusercontent.com/77810019/136435949-d1225f3f-6857-48e4-ad86-f4c3064df930.png) <br />
 After your rufus interface looks close to mine, press the start button and let it do its thing. Once it is done, your USB drive will look something like this: <br />
 ![image](https://user-images.githubusercontent.com/77810019/136436159-624ae895-d887-4fac-bda1-47707dafa346.png) <br />
+# Step 3- Partitioning your Drive:
