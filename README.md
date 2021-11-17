@@ -17,3 +17,8 @@ Now that you've finished downloading your ISO file, plug in your USB drive. Next
 After your rufus interface looks close to mine, press the start button and let it do its thing. Once it is done, your USB drive will look something like this: <br />
 ![image](https://user-images.githubusercontent.com/77810019/136436159-624ae895-d887-4fac-bda1-47707dafa346.png) <br />
 # Step 3- Partitioning your Drive:
+Run the tool provided with the files to partition out at least 20 GB
+# Step 4- Boot from your live USB:
+Google what key to press when you are restarting your PC to enter the boot selector, as it varies from computer to computer. Once you know your key, reboot and enter the boot selection menu. Select your live USB from that list and boot into it.
+# Step 5- You're all set!
+Go through the prompts to install Kali on your PC!
